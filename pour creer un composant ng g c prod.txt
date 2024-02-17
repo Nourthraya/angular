@@ -1,0 +1,3 @@
+
+pour creer un composant: ng g c product
+pour compiler : ng serve --o
